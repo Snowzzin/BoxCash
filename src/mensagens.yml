@@ -1,0 +1,12 @@
+Mensagens:
+  CashEnviado: '&6[Cash] &eVocê enviou &f{quantia} &ede Cash para o jogador &f{player}&e.'
+  CashRecebido: '&6[Cash] &eVocê recebeu &f{quantia} &ede Cash do jogador &f{player}&e.'
+
+  CashAdicionado: '&6[Cash] &eVocê adicionou &f{quantia} &ede Cash para o jogador &f{player}&e.'
+  CashRemovido: '&6[Cash] &eVocê removeu &f{quantia} &ede Cash do jogador &f{player}&e.'
+
+  CashToggleOn: '&6[Cash] &eVocê &fativou &eo Recebimento de Cash'
+  CashToggleOff: '&6[Cash] &eVocê &fdesativou &eo Recebimento de Cash'
+
+  SemCash: '&6[Cash] &cVocê não possui essa quantia de Cash.'
+  ComprouItem: '&6GG! &eO jogador &f{jogador} &ecomprou &f{item} &ena loja de Cash'

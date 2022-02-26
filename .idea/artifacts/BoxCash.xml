@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BoxCash">
+    <output-path>$USER_HOME$/Desktop/testePlugins/plugins</output-path>
+    <root id="archive" name="BoxCash.jar">
+      <element id="module-output" name="BoxCash" />
+    </root>
+  </artifact>
+</component>

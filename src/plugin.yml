@@ -1,0 +1,5 @@
+name: BoxCash
+main: me.snow.cash.BoxCash
+version: 1
+commands:
+  cash:

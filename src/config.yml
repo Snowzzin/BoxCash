@@ -1,0 +1,28 @@
+#Debug para mostrar quando um jogador for registrado no nosso sistema
+debug: true
+
+Permissões:
+  Admin: 'cash.admin'
+
+Loja:
+  Item1:
+    Nome: "&bPicareta Suprema" #Nome do item
+    Comando: "give {target} diamond_pickaxe" #Comando que sera executado ao comprar o Item
+    Permissão: 'cashloja.item1' #Permissão para poder comprar este item
+    Preço: 2500 #Preço do Item
+    Lore: #Lore do Item
+      - ''
+      - '&7Picareta Suprema'
+      - ''
+      - '&7Preço: &6{valor}'
+      - ''
+    Slot: 11 #Slot que ira ficar o Item no menu da loja
+    Material: '278:0' #ID:DATA - Icone do Item no menu da loja
+
+
+Formatação:
+  - ''
+  - 'K'
+  - 'M'
+  - 'B'
+  - 'T'

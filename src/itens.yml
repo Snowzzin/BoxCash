@@ -1,0 +1,12 @@
+Itens:
+  Extrato:
+    Nome: '&eExtrato Bancario'
+    Lore:
+      - ''
+      - '&7Jogador: &a{alvo}'
+      - ''
+      - ' &7Quantia: &e{quantia}'
+      - ' &7Tipo: &e{tipo} Cash'
+      - ''
+      - '&7Data: &a{data}'
+      - ''
